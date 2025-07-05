@@ -1,3 +1,5 @@
+![tech](https://github.com/user-attachments/assets/20e2dd19-2338-4741-86cf-450a3c7e59da)
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
